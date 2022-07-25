@@ -1,4 +1,4 @@
-an human who writes shitty code
+an human who writes terrible code
 Editor:
   Windows: GitHub Atom
   Linux: VSCodium
