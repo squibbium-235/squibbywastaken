@@ -8,6 +8,7 @@ Intel Core i3-10300
 16gb DDR4 RAM
 480gb SSD
 2tb Hard drive
+Gigabyte Nvidia GTX 970
 
 
 <!---
